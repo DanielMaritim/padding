@@ -1,0 +1,11 @@
+/*the element is usually the text*/
+p.one {
+	
+	padding-top:25px;
+	padding-right:50px;
+	padding-bottom:25px;
+	padding-left:50px;
+}
+p {
+	background-color:pink;
+}
